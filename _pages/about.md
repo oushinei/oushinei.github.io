@@ -30,7 +30,7 @@ My research interest includes consumer psychology, sensory marketing and food ma
 <img src='images/Food Quality and Preference.jpg' alt="sym" width="10%"><!--/div></div>
 <div class='paper-box-text' markdown="1"-->
 
-[**Wang, Z.**, & Park, J. (2023). “Human-like” is powerful: The effect of anthropomorphism on psychological closeness and purchase intention in insect food marketing. Food Quality and Preference, 109, 104901.](https://www.sciencedirect.com/science/article/abs/pii/S0950329323000952)
+- [**Wang, Z.**, & Park, J. (2023). “Human-like” is powerful: The effect of anthropomorphism on psychological closeness and purchase intention in insect food marketing. Food Quality and Preference, 109, 104901.](https://www.sciencedirect.com/science/article/abs/pii/S0950329323000952)
 
 # 📝 Conferences 
 - 15th Pangborn Sensory Science Symposium: Meeting new challenges in a changing world (20-24 August 2023) — The effect of human face presence on consumers’ responses to the advertised insect food.
