@@ -24,11 +24,8 @@ My research interest includes consumer psychology, sensory marketing and food ma
 
 # 🔥 News
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[- *2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had their paper published in the journal "Food Quality and Preference." ](https://www.sciencedirect.com/science/article/abs/pii/S0950329323000952)
-# - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[- *2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had their paper published in the journal "Food Quality and Preference." ](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)
+</- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
