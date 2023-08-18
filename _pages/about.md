@@ -25,7 +25,7 @@ Should you be interested in any form of academic collaboration, please don't hes
 
 
 # 🔥 News
-- [*2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had their paper published in the journal "Food Quality and Preference." ](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)
+- [*2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had his paper published in the journal "Food Quality and Preference." ](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)
 
 # 📗 Publications 
 <!--div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food Quality and Preference 2023</div>
