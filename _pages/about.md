@@ -23,20 +23,25 @@ My research interest includes consumer psychology, sensory marketing and food ma
 
 
 # 🔥 News
-
-[- *2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had their paper published in the journal "Food Quality and Preference." ](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)
-</- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [*2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had their paper published in the journal "Food Quality and Preference." ](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food Quality and Preference 2023</div><img src='images/Food Quality and Preference.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [“Human-like” is powerful: The effect of anthropomorphism on psychological closeness and purchase intention in insect food marketing](https://www.sciencedirect.com/science/article/abs/pii/S0950329323000952)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zining Wang**, Jaewoo Park
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+# 📝 Conferences 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food Quality and Preference 2023</div><img src='images/Food Quality and Preference.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[“Human-like” is powerful: The effect of anthropomorphism on psychological closeness and purchase intention in insect food marketing](https://www.sciencedirect.com/science/article/abs/pii/S0950329323000952)
+
+**Zining Wang**, Jaewoo Park
+
+<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -45,15 +50,17 @@ My research interest includes consumer psychology, sensory marketing and food ma
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.04 - 2024.03 (expected)*, Chuo University, Hachioji-shi, Tokyo, Japan. Master of Commerce, majoring in Commerce. GPA: 4.00. Thesis: The role of package design in enhancing consumer acceptance of insect-based foods: exploring the effect of anthropomorphism.
+- *2016.08 - 2020.06*, Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering. GPA: 2.34. Thesis: Design of Nanjing Qicheng Business Hotel (Frame-shear Wall structure).
 
-# 💬 Invited Talks
+<!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Skills
+- Languages: Chinese (native), Japanese (JLPT N1), English (TOEIC 890).
+- Data analysis softwares: SPSS, Amos, SmartPLS, XLSTAT, Stata (basic).
+- Other related softwares: Zotero, LaTeX (basic), Adobe Photoshop (basic).
