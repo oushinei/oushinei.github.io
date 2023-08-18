@@ -21,7 +21,7 @@ I am a graduate student enrolled in the Graduate School of Commerce at [Chuo Uni
 
 My research interest includes consumer psychology, sensory marketing and food marketing. I have published some papers at international academic journals with total <a href='https://scholar.google.com/citations?user=Y8H7YqkAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Y8H7YqkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-If you are seeking any form of academic cooperation, please feel free to email me at [wanzunei@gmail.com](wanzunei@gmail.com).
+Should you be interested in any form of academic collaboration, please don't hesitate to reach out to me via email at [wanzunei@gmail.com](wanzunei@gmail.com).
 
 
 # 🔥 News
