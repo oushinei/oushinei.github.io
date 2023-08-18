@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zining Wang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "A graduate student enrolled in the Graduate School of Commerce at Chuo University under the supervision of Professor Jaewoo Park."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -54,7 +54,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  xing             :
+  red              : "https://www.xiaohongshu.com/user/profile/63e455e10000000026006e2c"
   youtube          :
   wikipedia        :
 
