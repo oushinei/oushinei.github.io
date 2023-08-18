@@ -34,11 +34,9 @@ My research interest includes consumer psychology, sensory marketing and food ma
 **Zining Wang**, Jaewoo Park
 
 # 📝 Conferences 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food Quality and Preference 2023</div><img src='images/Food Quality and Preference.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[“Human-like” is powerful: The effect of anthropomorphism on psychological closeness and purchase intention in insect food marketing](https://www.sciencedirect.com/science/article/abs/pii/S0950329323000952)
-
+- 15th Pangborn Sensory Science Symposium: Meeting new challenges in a changing world (20-24 August 2023) — The effect of human face presence on consumers’ responses to the advertised insect food.
+**Zining Wang**, Jaewoo Park
+- Association for Consumer Research Conference 2023: Spreading Good…Well (26-29 October 2023) — It looks work better: Embedding a posture silhouette in medicine packages to increase purchase intention.
 **Zining Wang**, Jaewoo Park
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
