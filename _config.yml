@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-4439-5679"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -54,7 +54,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  red              : "https://www.xiaohongshu.com/user/profile/63e455e10000000026006e2c"
+  xing             : 
   youtube          :
   wikipedia        :
 
