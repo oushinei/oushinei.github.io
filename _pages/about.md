@@ -26,10 +26,11 @@ My research interest includes consumer psychology, sensory marketing and food ma
 - [*2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had their paper published in the journal "Food Quality and Preference." ](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)
 
 # 📝 Publications 
-<!--div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food Quality and Preference 2023</div-->
-<img src='images/Food Quality and Preference.jpg' alt="sym" width="10%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!--div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food Quality and Preference 2023</div>
+<img src='images/Food Quality and Preference.jpg' alt="sym" width="10%"><!--/div></div>
+<div class='paper-box-text' markdown="1"-->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food Quality and Preference 2023</div></div></div><div class='paper-box-text' markdown="1">
 [**Wang, Z.**, & Park, J. (2023). “Human-like” is powerful: The effect of anthropomorphism on psychological closeness and purchase intention in insect food marketing. Food Quality and Preference, 109, 104901.](https://www.sciencedirect.com/science/article/abs/pii/S0950329323000952)
 
 # 📝 Conferences 
