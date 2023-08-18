@@ -23,6 +23,9 @@ My research interest includes consumer psychology, sensory marketing and food ma
 
 Should you be interested in any form of academic collaboration, please don't hesitate to reach out to me via email at [wanzunei@gmail.com](wanzunei@gmail.com).
 
+# 📖 Educations
+- *2022.04 - 2024.03 (expected)*, Chuo University, Hachioji-shi, Tokyo, Japan. Master of Commerce, majoring in Commerce. GPA: 4.00. Thesis: The role of package design in enhancing consumer acceptance of insect-based foods: exploring the effect of anthropomorphism.
+- *2016.08 - 2020.06*, Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering. GPA: 2.34. Thesis: Design of Nanjing Qicheng Business Hotel (Frame-shear Wall structure).
 
 # 🔥 News
 - [*2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had his paper published in the journal "Food Quality and Preference." ](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)
@@ -50,10 +53,6 @@ Should you be interested in any form of academic collaboration, please don't hes
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-
-# 📖 Educations
-- *2022.04 - 2024.03 (expected)*, Chuo University, Hachioji-shi, Tokyo, Japan. Master of Commerce, majoring in Commerce. GPA: 4.00. Thesis: The role of package design in enhancing consumer acceptance of insect-based foods: exploring the effect of anthropomorphism.
-- *2016.08 - 2020.06*, Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering. GPA: 2.34. Thesis: Design of Nanjing Qicheng Business Hotel (Frame-shear Wall structure).
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
