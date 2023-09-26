@@ -59,6 +59,6 @@ Should you be interested in any form of academic collaboration, please don't hes
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Skills
-- Languages: Chinese (native), Japanese (JLPT N1), English (TOEIC 890).
+- Languages: Chinese (native), Japanese (JLPT N1), English (TOEIC 925).
 - Data analysis softwares: SPSS, Amos, SmartPLS, XLSTAT, Stata (basic).
 - Other related softwares: Zotero, LaTeX (basic), Adobe Photoshop (basic).
