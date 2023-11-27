@@ -54,7 +54,7 @@ Should you be interested in any form of academic collaboration, please don't hes
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2023.11* Benefit Scholarship for Undergraduate and Graduate Students 2023, Chuo University. 
 
 # 💻 Skills
