@@ -14,6 +14,9 @@ main:
 
   - title: "Conferences"
     url: "/#-conferences"
-
+    
+  - title: "Honors and Awards"
+    url: "/#-Honors and Awards"
+    
   - title: "Skills"
     url: "/#-skills"
