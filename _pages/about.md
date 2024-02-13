@@ -38,7 +38,7 @@ Should you be interested in any form of academic collaboration, please don't hes
 - [**Wang, Z.**, & Park, J. (2023). “Human-like” is powerful: The effect of anthropomorphism on psychological closeness and purchase intention in insect food marketing. Food Quality and Preference, 109, 104901.](https://www.sciencedirect.com/science/article/abs/pii/S0950329323000952)
 
 # 📝 Conferences 
-- ACR Asia-Pacific Conference 2024 (8-11 Jul 2024) — Spending more or spending less: How friends’ expenditures influence our consumption intentions in the context of companion shopping.
+- ACR Asia-Pacific Conference 2024 (8-11 July 2024) — Spending more or spending less: How friends’ expenditures influence our consumption intentions in the context of companion shopping.
 **Wang, Z.**, & Park, J.
 - Association for Consumer Research Conference 2023: Spreading Good…Well (26-29 October 2023) — It looks work better: Embedding a posture silhouette in medicine packages to increase purchase intention.
 **Wang, Z.**, & Park, J.
