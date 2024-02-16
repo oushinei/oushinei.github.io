@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zining Wang"
-  avatar           : "images/研究室.png"
+  avatar           : "images/lab.png"
   bio              : "Chuo University"
   location         : "Tokyo, Japan"
   employer         :
