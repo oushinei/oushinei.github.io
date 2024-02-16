@@ -16,14 +16,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a graduate student enrolled in the Graduate School of Commerce at [Chuo University](https://www.chuo-u.ac.jp/). My supervisor is Professor [Jaewoo Park](https://c-research.chuo-u.ac.jp/html/100003068_ja.html).
+I am a doctoral student enrolled in the Graduate School of Commerce at [Chuo University](https://www.chuo-u.ac.jp/). My supervisor is Professor [Jaewoo Park](https://c-research.chuo-u.ac.jp/html/100003068_ja.html).
 
 My research interest includes consumer psychology, social psychology, sensory marketing and food marketing. I have published some research at international academic journals and conferences as below. <!--a paper at international academic journals with total <a href='https://scholar.google.com/citations?user=Y8H7YqkAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Y8H7YqkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 Should you be interested in any form of academic collaboration, please don't hesitate to reach out to me via email at [wanzunei@gmail.com](wanzunei@gmail.com).
 
 # 📖 Educations
-- *2022.04 - 2024.03 (expected)*, Chuo University, Hachioji-shi, Tokyo, Japan. Master of Commerce, majoring in Commerce. GPA: 4.00. Thesis: The role of package design in enhancing consumer acceptance of insect-based foods: exploring the effect of anthropomorphism.
+- *2024.04 - 2027.03 (expected)*, Chuo University, Hachioji-shi, Tokyo, Japan. Doctor of Commerce, majoring in Commerce.
+- *2022.04 - 2024.03*, Chuo University, Hachioji-shi, Tokyo, Japan. Master of Commerce, majoring in Commerce. GPA: 4.00. Thesis: The role of package design in enhancing consumer acceptance of insect-based foods: exploring the effect of anthropomorphism.
 - *2016.08 - 2020.06*, Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering. GPA: 2.34. Thesis: Design of Nanjing Qicheng Business Hotel (Frame-shear Wall structure).
 
 # 🔥 News
