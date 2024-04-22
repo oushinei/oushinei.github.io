@@ -28,7 +28,8 @@ Should you be interested in any form of academic collaboration, please don't hes
 - *2016.08 - 2020.06*, Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering. GPA: 2.34. Thesis: Design of Nanjing Qicheng Business Hotel (Frame-shear Wall structure).
 
 # 🔥 News
-- [*2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had his paper published in the journal "Food Quality and Preference." ](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)
+- [*2024.03*: &nbsp;🎉🎉 The Master's Degree Conferral Ceremony for the Graduate Schools of Law, Economics, Commerce, Literature, and Policy Studies was held."](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/03/70285/)
+- [*2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had his paper published in the journal "Food Quality and Preference."](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)
 
 # 📗 Publications 
 <!--div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food Quality and Preference 2023</div>
