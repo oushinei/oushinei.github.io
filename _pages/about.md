@@ -36,6 +36,7 @@ Should you be interested in any form of academic collaboration, please don't hes
 <img src='images/Food Quality and Preference.jpg' alt="sym" width="10%"><!--/div></div>
 <div class='paper-box-text' markdown="1"-->
 
+- [**Wang, Z.**, & Park, J. (2024). Does personality make a difference? Exploring the connections between the big five personality traits and entomophagy among Japanese consumers. Food Quality and Preference, 119, 105225.](https://www.sciencedirect.com/science/article/pii/S0950329324001277)
 - [**Wang, Z.**, & Park, J. (2023). “Human-like” is powerful: The effect of anthropomorphism on psychological closeness and purchase intention in insect food marketing. Food Quality and Preference, 109, 104901.](https://www.sciencedirect.com/science/article/abs/pii/S0950329323000952)
 
 # 📝 Conferences 
