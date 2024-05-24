@@ -61,6 +61,7 @@ Should you be interested in any form of academic collaboration, please don't hes
 -->
 
 # 🏅 Honors and Awards
+- *2024.03* Outstanding graduate of the Graduate School of Commerce, Chuo University. 
 - *2023.11* Benefit Scholarship for Undergraduate and Graduate Students 2023, Chuo University. 
 
 # 💻 Skills
