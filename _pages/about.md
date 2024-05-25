@@ -45,8 +45,8 @@ Should you be interested in any form of academic collaboration, please don't hes
 **Wang, Z.**, & Park, J.
 - Association for Consumer Research Conference 2023: Spreading Good…Well (26-29 October 2023) — It looks work better: Embedding a posture silhouette in medicine packages to increase purchase intention.
 **Wang, Z.**, & Park, J.
-- [15th Pangborn Sensory Science Symposium: Meeting new challenges in a changing world (20-24 August 2023) — The effect of human face presence on consumers’ responses to the advertised insect food.
-**Wang, Z.**, & Park, J.]
+- 15th Pangborn Sensory Science Symposium: Meeting new challenges in a changing world (20-24 August 2023) — The effect of human face presence on consumers’ responses to the advertised insect food.
+**Wang, Z.**, & Park, J.
 
 <!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
