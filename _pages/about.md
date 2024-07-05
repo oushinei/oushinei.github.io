@@ -64,7 +64,6 @@ Should you be interested in any form of academic collaboration, please don't hes
 - *2024.07* Academic Support Scholarship 2024, Chuo University.
 - *2024.03* Outstanding graduate of the Graduate School of Commerce, Chuo University. 
 - *2023.11* Benefit Scholarship for Undergraduate and Graduate Students 2023, Chuo University.
-- *2024.07* Academic Support Scholarship 2024, Chuo University.
 
 # 💻 Skills
 - Languages: Chinese (native), Japanese (JLPT N1), English (TOEIC 935).
