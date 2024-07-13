@@ -7,14 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
 
 I am a doctoral student enrolled in the Graduate School of Commerce at [Chuo University](https://www.chuo-u.ac.jp/). My supervisor is Professor [Jaewoo Park](https://c-research.chuo-u.ac.jp/html/100003068_ja.html).
 
