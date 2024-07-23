@@ -15,8 +15,8 @@ Should you be interested in any form of academic collaboration, please don't hes
 
 # 📖 Educations
 - *2024.04 - 2027.03 (expected)*, Chuo University, Hachioji-shi, Tokyo, Japan. Doctor of Commerce, majoring in Commerce.
-- *2022.04 - 2024.03*, Chuo University, Hachioji-shi, Tokyo, Japan. Master of Commerce, majoring in Commerce. GPA: 4.00. Thesis: The role of package design in enhancing consumer acceptance of insect-based foods: exploring the effect of anthropomorphism.
-- *2016.08 - 2020.06*, Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering. GPA: 2.34. Thesis: Design of Nanjing Qicheng Business Hotel (Frame-shear Wall structure).
+- *2022.04 - 2024.03*, Chuo University, Hachioji-shi, Tokyo, Japan. Master of Commerce, majoring in Commerce. 
+- *2016.08 - 2020.06*, Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering. 
 
 # 🔥 News
 - [*2024.03*: &nbsp;🎉🎉 The Master's Degree Conferral Ceremony for the Graduate Schools of Law, Economics, Commerce, Literature, and Policy Studies was held."](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/03/70285/)
