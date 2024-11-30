@@ -19,8 +19,8 @@ Should you be interested in any form of academic collaboration, please don't hes
 - *2016.08 - 2020.06*, Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering. 
 
 # 🔥 News
-- [*2024.11*: &nbsp;🎉🎉 A mid-term report meeting was held for SPRING scholarship research students."](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/11/76855/)
-- [*2024.03*: &nbsp;🎉🎉 The Master's Degree Conferral Ceremony for the Graduate Schools of Law, Economics, Commerce, Literature, and Policy Studies was held."](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/03/70285/)
+- [*2024.11*: &nbsp;🎉🎉 A mid-term report meeting was held for SPRING scholarship research students.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/11/76855/)
+- [*2024.03*: &nbsp;🎉🎉 The Master's Degree Conferral Ceremony for the Graduate Schools of Law, Economics, Commerce, Literature, and Policy Studies was held.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/03/70285/)
 - [*2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had his paper published in the journal "Food Quality and Preference."](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)
 
 # 📗 Publications 
