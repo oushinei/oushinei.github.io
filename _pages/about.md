@@ -33,8 +33,8 @@ Should you be interested in any form of academic collaboration, please don't hes
 - [**Wang, Z.**, & Park, J. (2023). “Human-like” is powerful: The effect of anthropomorphism on psychological closeness and purchase intention in insect food marketing. Food Quality and Preference, 109, 104901.](https://www.sciencedirect.com/science/article/abs/pii/S0950329323000952)
 
 # 📝 Conferences 
-- Society for Consumer Psychology - 2025 Annual Conference: Amplifying our Impact to Enhance Consumers’ Lives (27 February - 2 March, 2025) — Keep away from it! Examining the contagion effect of insect-based food in the retail context. **Wang, Z.**, & Park, J.
-- 69th Japan Association for Consumer Studies: The Future of Food and Consumer Behavior (7 December - 8 December, 2024) — Addressing marketing challenges in the development, introduction, and promotion of insect-based foods. **Wang, Z.**
+- Society for Consumer Psychology - 2025 Annual Conference: Amplifying our Impact to Enhance Consumers’ Lives (27 February - 2 March 2025) — Keep away from it! Examining the contagion effect of insect-based food in the retail context. **Wang, Z.**, & Park, J.
+- 69th Japan Association for Consumer Studies: The Future of Food and Consumer Behavior (7-8 December 2024) — Addressing marketing challenges in the development, introduction, and promotion of insect-based foods. **Wang, Z.**
 - EuroSense 2024: A Sense of Global Culture (8-11 September 2024) — Do consumers genuinely perceive insect-based foods as healthier and more sustainable: The role of information provision. **Wang, Z.**, & Park, J.
 - ACR Asia-Pacific Conference 2024 (8-11 July 2024) — Spending more or spending less: How friends’ expenditures influence our consumption intentions in the context of companion shopping.
 **Wang, Z.**, & Park, J.
