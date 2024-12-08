@@ -56,6 +56,7 @@ Should you be interested in any form of academic collaboration, please don't hes
 -->
 
 # 🏅 Honors and Awards
+- *2024.12* Excellence Award, JACS Paper Proposal Award, Japan Association for Consumer Studies (JACS).
 - *2024.07* D-CPRA: Chuo Promotion for Research Activities in Doctoral Courses, Support for Pioneering Research Initiated by the Next Generation (SPRING), Japan Science and Technology Agency (JST).
 - *2024.07* Academic Support Scholarship 2024, Chuo University.
 - *2024.03* Outstanding graduate of the Graduate School of Commerce, Chuo University. 
