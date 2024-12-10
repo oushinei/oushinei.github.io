@@ -17,6 +17,7 @@ My research interest includes consumer psychology and social psychology, especia
 - *2016.08 - 2020.06*, Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering. 
 
 # 🔥 News
+- [*2024.12*: &nbsp;🎉🎉 Zining Wang (Doctoral Program, Graduate School of Commerce) has received the JACS Paper Proposal Award.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/12/78027/)
 - [*2024.11*: &nbsp;🎉🎉 A mid-term report meeting was held for SPRING scholarship research students.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/11/76855/)
 - [*2024.03*: &nbsp;🎉🎉 The Master's Degree Conferral Ceremony for the Graduate Schools of Law, Economics, Commerce, Literature, and Policy Studies was held.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/03/70285/)
 - [*2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had his paper published in the journal "Food Quality and Preference."](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)
