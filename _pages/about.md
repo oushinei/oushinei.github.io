@@ -27,7 +27,7 @@ My research interest includes consumer psychology and social psychology, especia
 <img src='images/Food Quality and Preference.jpg' alt="sym" width="10%"><!--/div></div>
 <div class='paper-box-text' markdown="1"-->
 
-- [**Wang, Z.**, & Park, J. (2025). Does larger mean riskier? Investigating risk perception and product size preference in insect-based food. Food Quality and Preference, 105490.](https://www.sciencedirect.com/science/article/abs/pii/S0950329325000655?via%3Dihub)
+- [**Wang, Z.**, & Park, J. (2025). Does larger mean riskier? Investigating risk perception and product size preference in insect-based food. Food Quality and Preference, 129, 105490.](https://www.sciencedirect.com/science/article/abs/pii/S0950329325000655?via%3Dihub)
 - [**Wang, Z.**, & Park, J. (2025). Japanese-made or Chinese-made? Exploring the country-of-origin (COO) effect on insect-based foods. Food Quality and Preference, 126, 105421.](https://www.sciencedirect.com/science/article/abs/pii/S0950329324003239?via%3Dihub)
 - [**Wang, Z.**, & Park, J. (2024). Anthropomorphism enhances consumers’ acceptance of insect-based foods by inducing positive responses and reducing negative responses. (Preprint)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4946118)
 - [**Wang, Z.**, & Park, J. (2024). Does personality make a difference? Exploring the connections between the big five personality traits and entomophagy among Japanese consumers. Food Quality and Preference, 119, 105225.](https://www.sciencedirect.com/science/article/pii/S0950329324001277)
