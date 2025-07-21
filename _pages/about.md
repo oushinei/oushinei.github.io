@@ -27,7 +27,7 @@ My research interest includes consumer psychology and social psychology, especia
 <img src='images/Food Quality and Preference.jpg' alt="sym" width="10%"><!--/div></div>
 <div class='paper-box-text' markdown="1"-->
 
-- [**Wang, Z.**, & Park, J. (2025). Do not push me to eat insects! Investigating consumer responses to fear appeal in the context of insect-based foods. Food Quality and Preference, 105638.](https://www.sciencedirect.com/science/article/abs/pii/S0950329325002137)
+- [**Wang, Z.**, & Park, J. (2025). Do not push me to eat insects! Investigating consumer responses to fear appeal in the context of insect-based foods. Food Quality and Preference, 133, 105638.](https://www.sciencedirect.com/science/article/abs/pii/S0950329325002137)
 - [**Wang, Z.**, & Park, J. (2025). Do not take away my pleasure: Investigating the conflict between hedonic foods and entomophagy among Chinese consumers. Food Quality and Preference, 129, 105499.](https://www.sciencedirect.com/science/article/abs/pii/S0950329325000746?via%3Dihub)
 - [**Wang, Z.**, & Park, J. (2025). Does larger mean riskier? Investigating risk perception and product size preference in insect-based food. Food Quality and Preference, 129, 105490.](https://www.sciencedirect.com/science/article/abs/pii/S0950329325000655?via%3Dihub)
 - [**Wang, Z.**, & Park, J. (2025). Japanese-made or Chinese-made? Exploring the country-of-origin (COO) effect on insect-based foods. Food Quality and Preference, 126, 105421.](https://www.sciencedirect.com/science/article/abs/pii/S0950329324003239?via%3Dihub)
