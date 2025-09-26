@@ -27,7 +27,7 @@ My research interest includes consumer psychology and social psychology, especia
 <img src='images/Food Quality and Preference.jpg' alt="sym" width="10%"><!--/div></div>
 <div class='paper-box-text' markdown="1"-->
 
-- [**Wang, Z.**, Nguyen, M., Park, J., & Yuan, Y. (2025). From perceived healthiness to acceptance: How influencer type shapes consumer acceptance of insect-based foods. Food Quality and Preference, 135, 105719.](https://www.sciencedirect.com/science/article/pii/S0950329325002940)
+- [**Wang, Z.**, Nguyen, M., Park, J., & Yuan, Y. (2026). From perceived healthiness to acceptance: How influencer type shapes consumer acceptance of insect-based foods. Food Quality and Preference, 135, 105719.](https://www.sciencedirect.com/science/article/pii/S0950329325002940)
 - [**Wang, Z.**, & Park, J. (2026). Does dark mean insect? Investigating the impact of food color on the perceived likelihood of insect ingredients and consumer acceptance. Food Quality and Preference, 135, 105689.](https://www.sciencedirect.com/science/article/pii/S0950329325002642?dgcid=coauthor)
 - [**Wang, Z.**, & Park, J. (2025). Do not push me to eat insects! Investigating consumer responses to fear appeal in the context of insect-based foods. Food Quality and Preference, 133, 105638.](https://authors.elsevier.com/c/1lTIn3O579rXsP)
 - [**Wang, Z.**, & Park, J. (2025). Do not take away my pleasure: Investigating the conflict between hedonic foods and entomophagy among Chinese consumers. Food Quality and Preference, 129, 105499.](https://www.sciencedirect.com/science/article/abs/pii/S0950329325000746?via%3Dihub)
