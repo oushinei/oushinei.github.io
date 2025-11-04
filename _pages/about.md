@@ -27,6 +27,7 @@ My research interest includes consumer psychology and social psychology, especia
 <img src='images/Food Quality and Preference.jpg' alt="sym" width="10%"><!--/div></div>
 <div class='paper-box-text' markdown="1"-->
 
+- [**Wang, Z.**, & Park, J. (2025). Keep away from it! Examining the contamination effect of insect-based foods in retail environments. Psychology & Marketing, in press.]()
 - [**Wang, Z.**, Yuan, Y., & Park, J. (2026). Missing out is a loss: Investigating the effectiveness of scarcity appeals in promoting insect-based foods. Food Quality and Preference, 136, 105754.](https://authors.elsevier.com/c/1lz6Z3O579rY8V)
 - [**Wang, Z.**, Nguyen, M., Park, J., & Yuan, Y. (2026). From perceived healthiness to acceptance: How influencer type shapes consumer acceptance of insect-based foods. Food Quality and Preference, 135, 105719.](https://www.sciencedirect.com/science/article/pii/S0950329325002940)
 - [**Wang, Z.**, Gong, Z., & Park, J. (2026). Does dark mean insect? Investigating the impact of food color on the perceived likelihood of insect ingredients and consumer acceptance. Food Quality and Preference, 135, 105689.](https://www.sciencedirect.com/science/article/pii/S0950329325002642?dgcid=coauthor)
