@@ -62,16 +62,16 @@ My research interest includes consumer psychology and social psychology, especia
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-# 🏅 Research Projects
-- Japan Science and Technology Agency (JST), SPRING Program (JPMJSP2170)<span style="float:right;">*2024.04 - 2026.03*</span><br style="clear:both;" /> 
+# 📚 Research Projects
+- Japan Science and Technology Agency (JST), SPRING Program (JPMJSP2170)<span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
 Marketing strategies to enhance consumer acceptance of insect-based foods<span style="float:right;">Participant</span><br style="clear:both;" /> 
 
 # 🏅 Honors and Awards
-- Excellence Award, JACS Paper Proposal Award, Japan Association for Consumer Studies (JACS).<span style="float:right;">*2024.12*</span><br style="clear:both;" /> 
-- D-CPRA: Chuo Promotion for Research Activities in Doctoral Courses, Support for Pioneering Research Initiated by the Next Generation (SPRING), Japan Science and Technology Agency (JST).<span style="float:right;">*2024.07*</span><br style="clear:both;" />
-- Academic Support Scholarship 2024, Chuo University.<span style="float:right;">*2024.07*</span><br style="clear:both;" />
-- Outstanding graduate of the Graduate School of Commerce, Chuo University.<span style="float:right;">*2024.03*</span><br style="clear:both;" />
-- Benefit Scholarship for Undergraduate and Graduate Students 2023, Chuo University.<span style="float:right;">*2023.11*</span><br style="clear:both;" />
+- Excellence Award, JACS Paper Proposal Award, Japan Association for Consumer Studies (JACS).<span style="float:right;">2024.12</span><br style="clear:both;" /> 
+- D-CPRA: Chuo Promotion for Research Activities in Doctoral Courses, Support for Pioneering Research Initiated by the Next Generation (SPRING), Japan Science and Technology Agency (JST).<span style="float:right;">2024.07</span><br style="clear:both;" />
+- Academic Support Scholarship 2024, Chuo University.<span style="float:right;">2024.07</span><br style="clear:both;" />
+- Outstanding graduate of the Graduate School of Commerce, Chuo University.<span style="float:right;">2024.03</span><br style="clear:both;" />
+- Benefit Scholarship for Undergraduate and Graduate Students 2023, Chuo University.<span style="float:right;">2023.11</span><br style="clear:both;" />
 
 # 💻 Skills
 - Languages: Chinese (native), Japanese (JLPT N1), English (TOEIC 935).
