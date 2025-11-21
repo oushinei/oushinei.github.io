@@ -128,6 +128,11 @@ html, body, .page, .page__content, .page__inner-wrap {
   opacity: 1 !important;
 }
 
+/* 顶部导航字体稍微加粗 */
+.greedy-nav .visible-links > li > a {
+  font-weight: 600 !important;
+}
+
 /* 全站字体改成 Source Sans Pro（更现代更清晰） */
 body, html {
   font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !important;
@@ -139,17 +144,15 @@ body, html {
   text-justify: inter-word;
   line-height: 1.7;
 }
-
-/* 全站字体：系统 UI 字体 */
-html, body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif !important;
-}
-
-/* 导航栏和左侧栏字体稍微加粗 */
-.greedy-nav .visible-links > li > a {
-  font-weight: 600 !important;
-}
-
-.sidebar .author__urls a {
-  font-weight: 600 !important;
+/* 统一全站字体为 Source Sans Pro */
+body,
+.masthead,
+.greedy-nav,
+.greedy-nav a,
+.sidebar,
+.sidebar a,
+.sidebar p,
+.page__content,
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', sans-serif !important;
 }
