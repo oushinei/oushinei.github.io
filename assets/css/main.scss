@@ -107,7 +107,7 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
-body {
+html {
   background-image: url("/images/background2.png") !important;
   background-size: cover !important;
   background-repeat: no-repeat !important;
@@ -115,7 +115,7 @@ body {
   background-attachment: fixed !important;
 }
 
-body::before {
+html::before {
   content: "";
   position: fixed;
   top: 0;
@@ -129,4 +129,11 @@ body::before {
   opacity: 0.22 !important;
   z-index: -1 !important;
   pointer-events: none;
+}
+
+/* 关键：让内容容器透明，让背景显示出来 */
+.page,
+.page__inner-wrap,
+.page__content {
+  background: transparent !important;
 }
