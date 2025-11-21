@@ -1,5 +1,6 @@
 name: Get Citation Data
-
+permissions:
+  contents: write
 on: 
   workflow_dispatch:      # 手动触发
   page_build:             # 页面构建触发（如果你需要）
