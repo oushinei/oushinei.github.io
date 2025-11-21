@@ -115,7 +115,6 @@ body {
   background-attachment: fixed !important;
 }
 
-/* 添加背景叠层，使背景更柔和 */
 body::before {
   content: "";
   position: fixed;
@@ -127,7 +126,7 @@ body::before {
   background-size: cover !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
-  opacity: 0.22; /* 可调整 0.15–0.30 */
+  opacity: 0.22 !important;
   z-index: -1 !important;
   pointer-events: none;
 }
