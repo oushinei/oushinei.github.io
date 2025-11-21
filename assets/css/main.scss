@@ -107,12 +107,28 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
-
-html, body, .page, .page__content, .page__inner-wrap {
-  background: #fff7e6 !important;   /* 柔和暖黄色 */
+/* 主体背景色 */
+html, body, .page, .page__content, .page__inner-wrap, .page__meta {
+  background: #fff7e6 !important;
 }
-.masthead,
-.masthead__inner-wrap,
-.greedy-nav {
+
+/* 顶部导航栏背景色（你的主题使用 .site-header） */
+.site-header {
+  background: #fff7e6 !important;
+}
+
+/* 顶部导航栏内部容器 */
+.site-header .wrapper {
+  background: #fff7e6 !important;
+}
+
+/* 导航栏可能还有一个内层 */
+.nav-trigger,
+.site-nav {
+  background: #fff7e6 !important;
+}
+
+/* 左侧栏 */
+.sidebar {
   background: #fff7e6 !important;
 }
