@@ -136,3 +136,7 @@ html, body, .page, .page__content, .page__inner-wrap {
 .greedy-nav button {
   font-weight: 600 !important;
 }
+/* 全站字体改成 Source Sans Pro（更现代更清晰） */
+body, html {
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !important;
+}
