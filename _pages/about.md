@@ -9,7 +9,7 @@ redirect_from:
 
 I am a doctoral student enrolled in the Graduate School of Commerce at [Chuo University](https://www.chuo-u.ac.jp/). My supervisor is Professor [Jaewoo Park](https://c-research.chuo-u.ac.jp/html/100003068_ja.html).
 
-My research interest includes consumer psychology and social psychology, especially consumers' food preferences and choices. I have published several studies at international academic journals and conferences as below. Should you be interested in any form of academic collaboration, please don't hesitate to reach out to me via email at [wanzunei@gmail.com](wanzunei@gmail.com). My total citations: **<span id="total_cit">loading…</span>**
+My research interest includes consumer psychology and social psychology, especially consumers' food preferences and choices. I have published several studies at international academic journals and conferences as below. Should you be interested in any form of academic collaboration, please don't hesitate to reach out to me via email at [wanzunei@gmail.com](wanzunei@gmail.com).
 
 # 📖 Educations
 - 2024.04 - 2026.03 (expected), Chuo University, Hachioji-shi, Tokyo, Japan. Doctor of Commerce, majoring in Commerce.
