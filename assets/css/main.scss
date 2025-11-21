@@ -111,4 +111,8 @@ h1:before, .anchor:before {
 html, body, .page, .page__content, .page__inner-wrap {
   background: #fff7e6 !important;   /* 柔和暖黄色 */
 }
-
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav {
+  background: #fff7e6 !important;
+}
