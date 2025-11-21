@@ -112,9 +112,13 @@ html, body, .page, .page__content, .page__inner-wrap, .page__meta {
   background: #fff7e6 !important;
 }
 
-/* 把最上面的导航栏也改成同样的暖黄色 */
-header,
-header .wrapper,
-header nav {
+/* 把 body 下面第一层的大块容器背景全部变透明
+   （包括那个顽固的顶部白条）*/
+body > * {
+  background: transparent !important;
+}
+
+/* 但左侧栏我们还是要保持米黄色，不然会跟背景混在一起 */
+.sidebar {
   background: #fff7e6 !important;
 }
