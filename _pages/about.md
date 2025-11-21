@@ -74,7 +74,7 @@ Marketing strategies to enhance consumer acceptance of insect-based foods<span s
 - Benefit Scholarship for Undergraduate and Graduate Students 2023, Chuo University.<span style="float:right;">2023.11</span><br style="clear:both;" />
 
 # 💻 Skills
-- Languages: Chinese (native), Japanese (JLPT N1), English (TOEIC 935).
-- Data analysis softwares: SPSS, Amos, SmartPLS, XLSTAT, Stata (basic).
-- Other related softwares: Zotero, LaTeX (basic), Adobe Photoshop (basic).
+- Professional Skills: Solid theoretical foundation in consumer behavior and marketing research. Experienced in questionnaire design, experimental design, and data collection related to consumer studies. Capable of independently conducting quantitative research and writing academic papers in English, with several publications in international journals.
+- Data Analysis: Proficient in using SPSS for data processing and hypothesis testing. Familiar with AMOS and SmartPLS, with the ability to build and analyze Structural Equation Models (SEM). Experienced in using XLSTAT for common marketing research analyses, including factor analysis and cluster analysis.
+- Language Proficiency: English: TOEIC 935; strong academic writing and reading skills. Japanese: JLPT N1; capable of conducting academic research and daily communication in Japanese.
 
