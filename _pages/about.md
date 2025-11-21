@@ -63,7 +63,7 @@ My research interest includes consumer psychology and social psychology, especia
 -->
 
 # 📚 Research Projects
-- **Japan Science and Technology Agency (JST), SPRING Program (JPMJSP2170)**<span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
+- **Japan Science and Technology Agency (JST), SPRING Program (JPMJSP2170)** <span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
 Marketing strategies to enhance consumer acceptance of insect-based foods<span style="float:right;">Participant</span><br style="clear:both;" /> 
 
 # 🏅 Honors and Awards
@@ -74,7 +74,7 @@ Marketing strategies to enhance consumer acceptance of insect-based foods<span s
 - Benefit Scholarship for Undergraduate and Graduate Students 2023, Chuo University.<span style="float:right;">2023.11</span><br style="clear:both;" />
 
 # 💻 Skills
-- Professional Skills: Solid theoretical foundation in consumer behavior and marketing research. Experienced in questionnaire design, experimental design, and data collection related to consumer studies. Capable of independently conducting quantitative research and writing academic papers in English, with several publications in international journals.
-- Data Analysis: Proficient in using SPSS for data processing and hypothesis testing. Familiar with AMOS and SmartPLS, with the ability to build and analyze Structural Equation Models (SEM). Experienced in using XLSTAT for common marketing research analyses, including factor analysis and cluster analysis.
-- Language Proficiency: English: TOEIC 935; strong academic writing and reading skills. Japanese: JLPT N1; capable of conducting academic research and daily communication in Japanese.
+- **Professional Skills:** Solid theoretical foundation in consumer behavior and marketing research. Experienced in questionnaire design, experimental design, and data collection related to consumer studies. Capable of independently conducting quantitative research and writing academic papers in English, with several publications in international journals.
+- **Data Analysis:** Proficient in using SPSS for data processing and hypothesis testing. Familiar with AMOS and SmartPLS, with the ability to build and analyze Structural Equation Models (SEM). Experienced in using XLSTAT for common marketing research analyses, including factor analysis and cluster analysis.
+- **Language Proficiency:** English: TOEIC 935; strong academic writing and reading skills. Japanese: JLPT N1; capable of conducting academic research and daily communication in Japanese.
 
