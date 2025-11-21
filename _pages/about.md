@@ -63,7 +63,7 @@ My research interest includes consumer psychology and social psychology, especia
 -->
 
 # 📚 Research Projects
-- Japan Science and Technology Agency (JST), SPRING Program (JPMJSP2170)<span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
+- **Japan Science and Technology Agency (JST), SPRING Program (JPMJSP2170)**<span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
 Marketing strategies to enhance consumer acceptance of insect-based foods<span style="float:right;">Participant</span><br style="clear:both;" /> 
 
 # 🏅 Honors and Awards
