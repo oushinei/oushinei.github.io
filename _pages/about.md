@@ -77,3 +77,18 @@ Marketing strategies to enhance consumer acceptance of insect-based foods<span s
 - Languages: Chinese (native), Japanese (JLPT N1), English (TOEIC 935).
 - Data analysis softwares: SPSS, Amos, SmartPLS, XLSTAT, Stata (basic).
 - Other related softwares: Zotero, LaTeX (basic), Adobe Photoshop (basic).
+
+
+<script>
+fetch("https://scholar-api.deno.dev/author/Y8H7YqkAAAAJ")
+  .then(response => response.json())
+  .then(data => {
+      if (data && data.citedby) {
+          document.getElementById("total_cit").innerText = data.citedby;
+      }
+  })
+  .catch(err => {
+      console.error("Google Scholar API error:", err);
+      document.getElementById("total_cit").innerText = "N/A";
+  });
+</script>
