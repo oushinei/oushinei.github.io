@@ -11,6 +11,8 @@ description              : "A doctoral student enrolled in the Graduate School o
 repository               : "oushinei/oushinei.github.io"
 google_scholar_stats_use_cdn : true
 
+minimal_mistakes_skin: "sunrise"
+
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
