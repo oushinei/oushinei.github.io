@@ -108,17 +108,21 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 /* 主体背景色 */
-html, body, .page, .page__content, .page__inner-wrap, .page__meta {
+html, body, .page, .page__content, .page__inner-wrap {
   background: #fff7e6 !important;
 }
 
-/* 把 body 下面第一层的大块容器背景全部变透明
-   （包括那个顽固的顶部白条）*/
-body > * {
-  background: transparent !important;
+.sidebar {
+  background: #fff7e6 !important;
 }
 
-/* 但左侧栏我们还是要保持米黄色，不然会跟背景混在一起 */
-.sidebar {
+/* 顶部导航栏全区域变暖黄色 */
+.masthead,
+.masthead__inner-wrap,
+.masthead__menu,
+#site-nav,
+.greedy-nav,
+.greedy-nav > ul,
+.greedy-nav button {
   background: #fff7e6 !important;
 }
