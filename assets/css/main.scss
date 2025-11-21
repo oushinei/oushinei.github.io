@@ -107,9 +107,21 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
-/* 主体背景色 */
-html, body, .page, .page__content, .page__inner-wrap {
-  background: #fff7e6 !important;
+/* 1. html 负责“底色 + 食物线条背景图” */
+html {
+  background-color: #fff7e6;                          /* 米黄色底色 */
+  background-image: url("/images/background2.png");   /* 食物线条图 */
+  background-repeat: repeat;
+  background-size: 800px;      /* 图案大小，可以改 600~1000 看效果 */
+  background-position: center;
+}
+
+/* 2. 里面的容器只需要透明，让 html 的背景透出来 */
+body,
+.page,
+.page__content,
+.page__inner-wrap {
+  background-color: transparent;
 }
 
 /* 顶部导航栏略深一点，增强层次感 */
