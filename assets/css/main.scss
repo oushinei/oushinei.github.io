@@ -131,9 +131,9 @@ html::before {
   pointer-events: none;
 }
 
-/* 关键：让内容容器透明，让背景显示出来 */
 .page,
 .page__inner-wrap,
 .page__content {
   background: transparent !important;
 }
+
