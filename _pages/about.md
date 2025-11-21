@@ -12,7 +12,7 @@ I am a doctoral student enrolled in the Graduate School of Commerce at [Chuo Uni
 My research interest includes consumer psychology and social psychology, especially consumers' food preferences and choices. I have published several studies at international academic journals and conferences as below. Should you be interested in any form of academic collaboration, please don't hesitate to reach out to me via email at [wanzunei@gmail.com](wanzunei@gmail.com).
 
 # 📖 Educations
-- 2024.04 - 2026.03 (expected), Chuo University, Hachioji-shi, Tokyo, Japan. Doctor of Commerce, majoring in Commerce.
+- 2024.04 - 2026.03, Chuo University, Hachioji-shi, Tokyo, Japan. Doctor of Commerce, majoring in Commerce.
 - 2022.04 - 2024.03, Chuo University, Hachioji-shi, Tokyo, Japan. Master of Commerce, majoring in Commerce. 
 - 2016.08 - 2020.06, Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering. 
 
