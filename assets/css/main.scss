@@ -140,3 +140,12 @@ html, body, .page, .page__content, .page__inner-wrap {
 body, html {
   font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif !important;
 }
+/* 正文两端对齐 */
+.page__content p {
+  text-align: justify !important;
+  text-justify: inter-word;
+}
+/* 行距扩大 */
+.page__content p {
+  line-height: 1.7 !important;
+}
