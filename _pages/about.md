@@ -12,15 +12,15 @@ I am a doctoral student enrolled in the Graduate School of Commerce at [Chuo Uni
 My research interest includes consumer psychology and social psychology, especially consumers' food preferences and choices. I have published several studies at international academic journals and conferences as below. Should you be interested in any form of academic collaboration, please don't hesitate to reach out to me via email at [wanzunei@gmail.com](wanzunei@gmail.com). <!-- with total google scholar citations <a href='https://scholar.google.com/citations?user=Y8H7YqkAAAAJ'> <strong><span id='total_cit'>260000+</span></strong></a>. (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=Y8H7YqkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2024.04 - 2026.03 (expected)*, Chuo University, Hachioji-shi, Tokyo, Japan. Doctor of Commerce, majoring in Commerce.
-- *2022.04 - 2024.03*, Chuo University, Hachioji-shi, Tokyo, Japan. Master of Commerce, majoring in Commerce. 
-- *2016.08 - 2020.06*, Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering. 
+- 2024.04 - 2026.03 (expected), Chuo University, Hachioji-shi, Tokyo, Japan. Doctor of Commerce, majoring in Commerce.
+- 2022.04 - 2024.03, Chuo University, Hachioji-shi, Tokyo, Japan. Master of Commerce, majoring in Commerce. 
+- 2016.08 - 2020.06, Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering. 
 
 # 🔥 News
-- [*2024.12*: &nbsp;🎉🎉 Zining Wang (Doctoral Program, Graduate School of Commerce) has received the JACS Paper Proposal Award.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/12/78027/)
-- [*2024.11*: &nbsp;🎉🎉 A mid-term report meeting was held for SPRING scholarship research students.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/11/76855/)
-- [*2024.03*: &nbsp;🎉🎉 The Master's Degree Conferral Ceremony for the Graduate Schools of Law, Economics, Commerce, Literature, and Policy Studies was held.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/03/70285/)
-- [*2023.06*: &nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had his paper published in the journal "Food Quality and Preference."](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)
+- [&nbsp;🎉🎉 Zining Wang (Doctoral Program, Graduate School of Commerce) has received the JACS Paper Proposal Award.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/12/78027/)<span style="float:right;">2024.12</span><br style="clear:both;" /> 
+- [&nbsp;🎉🎉 A mid-term report meeting was held for SPRING scholarship research students.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/11/76855/)<span style="float:right;">2024.11</span><br style="clear:both;" /> 
+- [&nbsp;🎉🎉 The Master's Degree Conferral Ceremony for the Graduate Schools of Law, Economics, Commerce, Literature, and Policy Studies was held.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/03/70285/)<span style="float:right;">2024.03</span><br style="clear:both;" /> 
+- [&nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had his paper published in the journal "Food Quality and Preference."](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)<span style="float:right;">2023.06</span><br style="clear:both;" /> 
 
 # 📗 Publications 
 <!--div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food Quality and Preference 2023</div>
