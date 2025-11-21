@@ -2,6 +2,7 @@ name: Get Citation Data
 
 on: 
  page_build: 
+workflow_dispatch:   # ← 加这个！！！
  schedule:
   - cron:  '0 8 * * *'
 
