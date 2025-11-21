@@ -108,13 +108,14 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 body {
-  background-image: url("/images/background1");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
+  background-image: url("/images/background2.png") !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-attachment: fixed !important;
 }
 
+/* 添加背景叠层，使背景更柔和 */
 body::before {
   content: "";
   position: fixed;
@@ -122,10 +123,11 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("/images/background1.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  opacity: 0.12;  /* 可调，值越小越淡 */
-  z-index: -1;
+  background-image: url("/images/background2.png") !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  opacity: 0.22; /* 可调整 0.15–0.30 */
+  z-index: -1 !important;
+  pointer-events: none;
 }
