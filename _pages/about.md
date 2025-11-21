@@ -68,7 +68,7 @@ Marketing strategies to enhance consumer acceptance of insect-based foods<span s
 
 # 🏅 Honors and Awards
 - Excellence Award, JACS Paper Proposal Award, Japan Association for Consumer Studies (JACS).<span style="float:right;">2024.12</span><br style="clear:both;" /> 
-- D-CPRA: Chuo Promotion for Research Activities in Doctoral Courses, Support for Pioneering Research Initiated by the Next Generation (SPRING), Japan Science and Technology Agency (JST).<span style="float:right;">2024.07</span><br style="clear:both;" />
+- D-CPRA: Chuo Promotion for Research Activities in Doctoral Courses, SPRING Program, Japan Science and Technology Agency (JST).<span style="float:right;">2024.07</span><br style="clear:both;" />
 - Academic Support Scholarship 2024, Chuo University.<span style="float:right;">2024.07</span><br style="clear:both;" />
 - Outstanding graduate of the Graduate School of Commerce, Chuo University.<span style="float:right;">2024.03</span><br style="clear:both;" />
 - Benefit Scholarship for Undergraduate and Graduate Students 2023, Chuo University.<span style="float:right;">2023.11</span><br style="clear:both;" />
