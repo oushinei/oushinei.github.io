@@ -124,5 +124,10 @@ html, body, .page, .page__content, .page__inner-wrap {
 .greedy-nav,
 .greedy-nav > ul,
 .greedy-nav button {
-  background: #f5e3c4 !important;
+  background-color: #f5d9ac !important;  /* 比 #fff7e6 深一层 */
+  background: #f5d9ac !important;        /* 双保险 */
+}
+.masthead,
+.masthead__inner-wrap {
+  opacity: 1 !important;
 }
