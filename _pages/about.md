@@ -7,7 +7,16 @@ redirect_from:
   - /about.html
 ---
 # 🌟 About Me
-I am a doctoral student enrolled in the Graduate School of Commerce at [Chuo University](https://www.chuo-u.ac.jp/). My supervisor is Professor [Jaewoo Park](https://c-research.chuo-u.ac.jp/html/100003068_ja.html). My research interest includes consumer psychology and social psychology, especially consumers' food preferences and choices. I have published several studies at international academic journals and conferences as below. Should you be interested in any form of academic collaboration, please don't hesitate to reach out to me via email at [wanzunei@gmail.com](wanzunei@gmail.com).
+I am a doctoral student enrolled in the Graduate School of Commerce at [Chuo University](https://www.chuo-u.ac.jp/). My supervisor is Professor [Jaewoo Park](https://c-research.chuo-u.ac.jp/html/100003068_ja.html). 
+
+My research focuses on providing behavioral solutions to major failures within the global food system, specifically at the consumer-policy interface. Leveraging theories from Consumer/Social Psychology and Behavioral Economics, I employ rigorous experimental designs and quantitative methods to uncover the micro-level psychological mechanisms that drive food choices. My goal is to develop effective behavioral interventions and policy nudges to promote sustainable and healthy consumption behaviors. 
+
+Key Research Foci:
+- **Mitigating the sustainable protein adoption failure:** Examining consumer acceptance barriers towards sustainable protein sources (e.g., insect-based foods and cultured meat) to facilitate food system transformation.
+- **Tackling the health failure:** Exploring behavioral drivers of healthy food choices to combat the rising burden of obesity.
+- **Addressing the efficiency failure:** Investigating consumer rejection of imperfect/ugly foods to develop behavioral strategies for food waste reduction.
+
+Should you be interested in any form of academic collaboration, please don't hesitate to reach out to me via email at [wanzunei@gmail.com](wanzunei@gmail.com).
 
 # 📖 Educations
 - Chuo University, Hachioji-shi, Tokyo, Japan. Doctor of Commerce, majoring in Commerce.<span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
