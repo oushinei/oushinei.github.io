@@ -11,7 +11,7 @@ I am a doctoral student enrolled in the Graduate School of Commerce at [Chuo Uni
 
 My research focuses on providing behavioral solutions to major failures within the global food system, specifically at the consumer-policy interface. Leveraging theories from Consumer/Social Psychology and Behavioral Economics, I employ rigorous experimental designs and quantitative methods to uncover the micro-level psychological mechanisms that drive food choices. My goal is to develop effective behavioral interventions and policy nudges to promote sustainable and healthy consumption behaviors. 
 
-Key Research Foci:
+**Key Research Foci:**
 - **Mitigating the sustainable protein adoption failure:** Examining consumer acceptance barriers towards sustainable protein sources (e.g., insect-based foods and cultured meat) to facilitate food system transformation.
 - **Tackling the health failure:** Exploring behavioral drivers of healthy food choices to combat the rising burden of obesity.
 - **Addressing the efficiency failure:** Investigating consumer rejection of imperfect/ugly foods to develop behavioral strategies for food waste reduction.
