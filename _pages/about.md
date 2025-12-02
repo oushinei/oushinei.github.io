@@ -71,7 +71,7 @@ Should you be interested in any form of academic collaboration, please don't hes
 - **Japan Science and Technology Agency (JST), SPRING Program (JPMJSP2170)** <span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
 Marketing strategies to enhance consumer acceptance of insect-based foods<span style="float:right;">Participant</span><br style="clear:both;" /> 
 
-# 🏅 Honors and Awards
+# 🏅 Grants, Fellowships, and Awards
 - Excellence Award, JACS Paper Proposal Award, Japan Association for Consumer Studies (JACS).<span style="float:right;">2024.12</span><br style="clear:both;" /> 
 - D-CPRA: Chuo Promotion for Research Activities in Doctoral Courses, SPRING Program, Japan Science and Technology Agency (JST).<span style="float:right;">2024.07</span><br style="clear:both;" />
 - Academic Support Scholarship 2024, Chuo University.<span style="float:right;">2024.07</span><br style="clear:both;" />
