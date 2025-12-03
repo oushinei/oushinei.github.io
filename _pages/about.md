@@ -55,17 +55,8 @@ Should you be interested in any form of academic collaboration, please don't hes
 - 15th Pangborn Sensory Science Symposium: Meeting new challenges in a changing world (20-24 August 2023) — The effect of human face presence on consumers’ responses to the advertised insect food.
 **Wang, Z.**, & Park, J.
 
-<!--[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+# 💬 Academic Service
+I also serve as an ad hoc reviewer for leading international journals in the fields of consumer behavior and food science, including [**Appetite**](https://www.sciencedirect.com/journal/appetite) and [**npj Science of Food**](https://www.nature.com/npjscifood/).
 
 # 📚 Research Projects
 - **Japan Science and Technology Agency (JST), SPRING Program (JPMJSP2170)** <span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
