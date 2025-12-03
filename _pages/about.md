@@ -67,7 +67,7 @@ Marketing strategies to enhance consumer acceptance of insect-based foods<span s
 - Benefit Scholarship for Undergraduate and Graduate Students 2023, Chuo University.<span style="float:right;">2023.11</span><br style="clear:both;" />
 
 # 💬 Academic Service
-I also serve as an ad hoc reviewer for leading international journals in the fields of consumer behavior and food science, including [**Appetite**](https://www.sciencedirect.com/journal/appetite) and [**npj Science of Food**](https://www.nature.com/npjscifood/).
+I also serve as an ad hoc reviewer for leading international journals in the fields of consumer behavior and food science, including [*Appetite*](https://www.sciencedirect.com/journal/appetite) and [*npj Science of Food*](https://www.nature.com/npjscifood/).
 
 # 💻 Skills
 - **Professional Skills:** Solid theoretical foundation in consumer behavior and marketing research. Experienced in questionnaire design, experimental design, and data collection related to consumer studies. Capable of independently conducting quantitative research and writing academic papers in English, with several publications in international journals.
