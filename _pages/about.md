@@ -55,9 +55,6 @@ Should you be interested in any form of academic collaboration, please don't hes
 - 15th Pangborn Sensory Science Symposium: Meeting new challenges in a changing world (20-24 August 2023) — The effect of human face presence on consumers’ responses to the advertised insect food.
 **Wang, Z.**, & Park, J.
 
-# 💬 Academic Service
-I also serve as an ad hoc reviewer for leading international journals in the fields of consumer behavior and food science, including [**Appetite**](https://www.sciencedirect.com/journal/appetite) and [**npj Science of Food**](https://www.nature.com/npjscifood/).
-
 # 📚 Research Projects
 - **Japan Science and Technology Agency (JST), SPRING Program (JPMJSP2170)** <span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
 Marketing strategies to enhance consumer acceptance of insect-based foods<span style="float:right;">Research Fellow</span><br style="clear:both;" /> 
@@ -68,6 +65,9 @@ Marketing strategies to enhance consumer acceptance of insect-based foods<span s
 - Academic Support Scholarship 2024, Chuo University.<span style="float:right;">2024.07</span><br style="clear:both;" />
 - Outstanding graduate of the Graduate School of Commerce, Chuo University.<span style="float:right;">2024.03</span><br style="clear:both;" />
 - Benefit Scholarship for Undergraduate and Graduate Students 2023, Chuo University.<span style="float:right;">2023.11</span><br style="clear:both;" />
+
+# 💬 Academic Service
+I also serve as an ad hoc reviewer for leading international journals in the fields of consumer behavior and food science, including [**Appetite**](https://www.sciencedirect.com/journal/appetite) and [**npj Science of Food**](https://www.nature.com/npjscifood/).
 
 # 💻 Skills
 - **Professional Skills:** Solid theoretical foundation in consumer behavior and marketing research. Experienced in questionnaire design, experimental design, and data collection related to consumer studies. Capable of independently conducting quantitative research and writing academic papers in English, with several publications in international journals.
