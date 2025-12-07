@@ -68,6 +68,7 @@ Marketing strategies to enhance consumer acceptance of insect-based foods<span s
 
 # 💬 Academic Service
 - I serve as an ad hoc reviewer for leading international journals in the fields of consumer behavior and food science, including [*Appetite*](https://www.sciencedirect.com/journal/appetite) and [*npj Science of Food*](https://www.nature.com/npjscifood/).
+- I maintain a research blog on [Xiaohongshu (RED)](https://www.xiaohongshu.com/user/profile/63e455e10000000026006e2c) sharing insights on latest publications from leading journals (e.g., JCR, JCP). With over 2,100 followers, this platform has served as a productive hub for networking, leading to long-term collaborations with scholars from different institutions that have resulted in a few publications and several ongoing projects.
 
 # 💻 Skills
 - **Professional Skills:** Solid theoretical foundation in consumer behavior and marketing research. Experienced in questionnaire design, experimental design, and data collection related to consumer studies. Capable of independently conducting quantitative research and writing academic papers in English, with several publications in international journals.
