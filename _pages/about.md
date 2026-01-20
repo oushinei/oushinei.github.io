@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 # 🌟 About Me
-I am a doctoral student enrolled in the Graduate School of Commerce at [Chuo University](https://www.chuo-u.ac.jp/). My supervisor is Professor [Jaewoo Park](https://c-research.chuo-u.ac.jp/html/100003068_ja.html). My research focuses on providing behavioral solutions to major failures within the global food system, specifically at the consumer-policy interface. Leveraging theories from Consumer/Social Psychology and Behavioral Economics, I employ rigorous experimental designs and quantitative methods to uncover the micro-level psychological mechanisms that drive food choices. My goal is to develop effective behavioral interventions and policy nudges to promote sustainable and healthy consumption behaviors. 
+I am a doctoral student enrolled in the Graduate School of Commerce at [Chuo University](https://www.chuo-u.ac.jp/). My supervisor is Professor [Jaewoo Park](https://c-research.chuo-u.ac.jp/html/100003068_ja.html). My research lies at the intersection of consumer behavior, marketing, and food science, with a particular focus on how consumers make food-related decisions in complex and imperfect markets. Drawing on theories from Consumer Psychology, Social Psychology, and Behavioral Economics, I employ rigorous experimental designs and quantitative methods to uncover the psychological mechanisms underlying consumers’ food choices. My work aims to generate actionable insights for marketing strategy design and behaviorally informed interventions that encourage more sustainable and healthier consumption. 
 
 **Key Research Foci:**
-- **Mitigating the Sustainable Protein Adoption Failure:** Examining consumer acceptance barriers towards sustainable protein sources (e.g., insect-based foods and cultured meat) to facilitate food system transformation.
-- **Tackling the Health Failure:** Exploring behavioral drivers of healthy food choices to combat the rising burden of obesity.
-- **Addressing the Efficiency Failure:** Investigating consumer rejection of imperfect/ugly foods to develop behavioral strategies for food waste reduction.
+- **Consumer Acceptance of Sustainable Proteins:** Investigating psychological and marketing barriers to consumer adoption of alternative protein products (e.g., insect-based foods and cultured meat), and identifying effective communication and positioning strategies.
+- **Consumer Decision-Making in Healthy Eating Contexts:** Examining how marketing cues and psychological factors shape healthy food choices, with implications for both consumer welfare and brand strategy.
+- **Consumer Responses to Product Imperfection and Food Waste:** Exploring why consumers reject imperfect or “ugly” foods and how behavioral and marketing interventions can reduce waste and improve market efficiency.
 
-Should you be interested in any form of academic collaboration, please don't hesitate to reach out to me via email at [wanzunei@gmail.com](wanzunei@gmail.com).
+If you are interested in academic collaboration or research exchange, please feel free to contact me at [wanzunei@gmail.com](wanzunei@gmail.com).
 
 # 📖 Educations
 - Chuo University, Hachioji-shi, Tokyo, Japan. Doctor of Commerce, majoring in Commerce.<span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
