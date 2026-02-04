@@ -14,7 +14,7 @@ I am a doctoral student enrolled in the Graduate School of Commerce at [Chuo Uni
 - **Consumer Decision-Making in Healthy Eating Contexts:** Examining how marketing cues and psychological factors shape healthy food choices, with implications for both consumer welfare and brand strategy.
 - **Consumer Responses to Product Imperfection and Food Waste:** Exploring why consumers reject imperfect or “ugly” foods and how behavioral and marketing interventions can reduce waste and improve market efficiency.
 
-If you are interested in academic collaboration or research exchange, please feel free to contact me at [wanzunei@gmail.com](wanzunei@gmail.com).
+If you are interested in academic collaboration or research exchange, please feel free to contact me at [wangzining9808@163.com](wangzining9808@163.com).
 
 # 📖 Educations
 - Chuo University, Hachioji-shi, Tokyo, Japan. Doctor of Commerce, majoring in Commerce.<span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
