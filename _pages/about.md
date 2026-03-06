@@ -32,7 +32,7 @@ If you are interested in academic collaboration or research exchange, please fee
 <img src='images/Food Quality and Preference.jpg' alt="sym" width="10%"><!--/div></div>
 <div class='paper-box-text' markdown="1"-->
 
-- [**Wang, Z.**, & Park, J. (2025). Keep away from it! Examining the contamination effect of insect-based foods in retail environments. *Psychology & Marketing*, in press.](https://onlinelibrary.wiley.com/share/author/MVZSAF9E3V797EQMPZCU?target=10.1002/mar.70081)
+- [**Wang, Z.**, & Park, J. (2026). Keep away from it! Examining the contamination effect of insect-based foods in retail environments. *Psychology & Marketing*, 43(4), 726–748.](https://onlinelibrary.wiley.com/share/author/MVZSAF9E3V797EQMPZCU?target=10.1002/mar.70081)
 - [**Wang, Z.**, Yuan, Y., & Park, J. (2026). Missing out is a loss: Investigating the effectiveness of scarcity appeals in promoting insect-based foods. *Food Quality and Preference*, 136, 105754.](https://doi.org/10.1016/j.foodqual.2025.105754)
 - [**Wang, Z.**, Nguyen, M., Park, J., & Yuan, Y. (2026). From perceived healthiness to acceptance: How influencer type shapes consumer acceptance of insect-based foods. *Food Quality and Preference*, 135, 105719.](https://doi.org/10.1016/j.foodqual.2025.105719)
 - [**Wang, Z.**, Gong, Z., & Park, J. (2026). Does dark mean insect? Investigating the impact of food color on the perceived likelihood of insect ingredients and consumer acceptance. *Food Quality and Preference*, 135, 105689.](https://doi.org/10.1016/j.foodqual.2025.105689)
