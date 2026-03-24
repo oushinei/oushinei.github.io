@@ -22,6 +22,7 @@ If you are interested in academic collaboration or research exchange, please fee
 - Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering.<span style="float:right;">2016.08 - 2020.06</span><br style="clear:both;" /> 
 
 # 🔥 News
+- [&nbsp;🎉🎉 Chuo University Holds Doctoral Degree Award Ceremony.]([https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/12/78027/](https://www.chuo-u.ac.jp/academics/graduateschool/news/2026/03/84937/))<span style="float:right;">2026.03</span><br style="clear:both;" /> 
 - [&nbsp;🎉🎉 Zining Wang (Doctoral Program, Graduate School of Commerce) has received the JACS Paper Proposal Award.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/12/78027/)<span style="float:right;">2024.12</span><br style="clear:both;" /> 
 - [&nbsp;🎉🎉 A mid-term report meeting was held for SPRING scholarship research students.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/11/76855/)<span style="float:right;">2024.11</span><br style="clear:both;" /> 
 - [&nbsp;🎉🎉 The Master's Degree Conferral Ceremony for the Graduate Schools of Law, Economics, Commerce, Literature, and Policy Studies was held.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/03/70285/)<span style="float:right;">2024.03</span><br style="clear:both;" /> 
