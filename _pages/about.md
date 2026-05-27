@@ -16,14 +16,12 @@ I am currently a Lecturer in the School of Economics and Management at [Hefei No
 
 If you are interested in academic collaboration or research exchange, please feel free to contact me at [wangzining@hfnu.edu.cn](wangzining@hfnu.edu.cn).
 
-# 📖 Educations
-- Chuo University, Hachioji-shi, Tokyo, Japan. Doctor of Commerce, majoring in Commerce.<span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
-- Chuo University, Hachioji-shi, Tokyo, Japan. Master of Commerce, majoring in Commerce.<span style="float:right;">2022.04 - 2024.03</span><br style="clear:both;" /> 
-- Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering.<span style="float:right;">2016.08 - 2020.06</span><br style="clear:both;" />
-
-# 🏛️ Work Experience
+# 📖 Academic Background
 - Lecturer, School of Economics and Management, Hefei Normal University, Hefei, Anhui, China.<span style="float:right;">2026.05 - Present</span><br style="clear:both;" />
-  Responsibilities include undergraduate teaching in marketing and consumer behavior, conducting academic research on food consumption behavior, and supervising student research projects.
+- Doctor of Commerce, majoring in Commerce. Chuo University, Hachioji-shi, Tokyo, Japan.<span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
+- Master of Commerce, majoring in Commerce. Chuo University, Hachioji-shi, Tokyo, Japan.<span style="float:right;">2022.04 - 2024.03</span><br style="clear:both;" /> 
+- Bachelor of Engineering, majoring in Civil Engineering. Harbin Engineering University, Harbin, Heilongjiang, China.<span style="float:right;">2016.08 - 2020.06</span><br style="clear:both;" />
+
 
 # 🔥 News
 - [&nbsp;🎉🎉 Chuo University Holds Doctoral Degree Award Ceremony.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2026/03/84937/)<span style="float:right;">2026.03</span><br style="clear:both;" /> 
