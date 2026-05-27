@@ -22,7 +22,7 @@ If you are interested in academic collaboration or research exchange, please fee
 - Harbin Engineering University, Harbin, Heilongjiang, China. Bachelor of Engineering, majoring in Civil Engineering.<span style="float:right;">2016.08 - 2020.06</span><br style="clear:both;" />
 
 # 🏛️ Work Experience
-- Lecturer, School of Economics and Management, Hefei Normal University, Hefei, Anhui, China.<span style="float:right;">2026.04 - Present</span><br style="clear:both;" />
+- Lecturer, School of Economics and Management, Hefei Normal University, Hefei, Anhui, China.<span style="float:right;">2026.05 - Present</span><br style="clear:both;" />
   Responsibilities include undergraduate teaching in marketing and consumer behavior, conducting academic research on food consumption behavior, and supervising student research projects.
 
 # 🔥 News
