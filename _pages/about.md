@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # 🌟 About Me
-I am currently an Associate Professor in the School of Economics and Management at [Hefei Normal University](https://www.hfnu.edu.cn/). I earned my Ph.D. from the Graduate School of Commerce at [Chuo University](https://www.chuo-u.ac.jp/), where I was supervised by Professor [Jaewoo Park](https://c-research.chuo-u.ac.jp/html/100003068_ja.html). My research lies at the intersection of consumer behavior, marketing, and food science, with a particular focus on how consumers make food-related decisions in complex and imperfect markets. Drawing on theories from Consumer Psychology, Social Psychology, and Behavioral Economics, I employ rigorous experimental designs and quantitative methods to uncover the psychological mechanisms underlying consumers’ food choices. My work aims to generate actionable insights for marketing strategy design and behaviorally informed interventions that promote more sustainable and healthy food consumption.
+I am currently an Associate Professor in the College of Economics and Management at [Hefei Normal University](https://www.hfnu.edu.cn/). I earned my Ph.D. from the Graduate School of Commerce at [Chuo University](https://www.chuo-u.ac.jp/), where I was supervised by Professor [Jaewoo Park](https://c-research.chuo-u.ac.jp/html/100003068_ja.html). My research lies at the intersection of consumer behavior, marketing, and food science, with a particular focus on how consumers make food-related decisions in complex and imperfect markets. Drawing on theories from Consumer Psychology, Social Psychology, and Behavioral Economics, I employ rigorous experimental designs and quantitative methods to uncover the psychological mechanisms underlying consumers’ food choices. My work aims to generate actionable insights for marketing strategy design and behaviorally informed interventions that promote more sustainable and healthy food consumption.
 
 **Key Research Foci:**
 - **Consumer Acceptance of Sustainable Proteins:** Investigating psychological and marketing barriers to consumer adoption of alternative protein products (e.g., insect-based foods and cultured meat), and identifying effective communication and positioning strategies.
@@ -17,7 +17,7 @@ I am currently an Associate Professor in the School of Economics and Management 
 If you are interested in academic collaboration or research exchange, please feel free to contact me at [wangzining@hfnu.edu.cn](wangzining@hfnu.edu.cn).
 
 # 📖 Academic Background
-- Associate Professor, School of Economics and Management, Hefei Normal University, Hefei, Anhui, China.<span style="float:right;">2026.05 - Present</span><br style="clear:both;" />
+- Associate Professor, College of Economics and Management, Hefei Normal University, Hefei, Anhui, China.<span style="float:right;">2026.05 - Present</span><br style="clear:both;" />
 - Doctor of Commerce, majoring in Commerce. Chuo University, Hachioji-shi, Tokyo, Japan.<span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
 - Master of Commerce, majoring in Commerce. Chuo University, Hachioji-shi, Tokyo, Japan.<span style="float:right;">2022.04 - 2024.03</span><br style="clear:both;" /> 
 - Bachelor of Engineering, majoring in Civil Engineering. Harbin Engineering University, Harbin, Heilongjiang, China.<span style="float:right;">2016.08 - 2020.06</span><br style="clear:both;" />
