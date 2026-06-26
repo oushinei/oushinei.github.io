@@ -71,7 +71,7 @@ Marketing strategies to enhance consumer acceptance of insect-based foods<span s
 - Benefit Scholarship for Undergraduate and Graduate Students 2023, Chuo University.<span style="float:right;">2023.11</span><br style="clear:both;" />
 
 # 💬 Academic Service
-- I serve as an ad hoc reviewer for leading international journals in the fields of consumer behavior and food science, including [*Appetite*](https://www.sciencedirect.com/journal/appetite) and [*npj Science of Food*](https://www.nature.com/npjscifood/).
+- I serve as an ad hoc reviewer for leading international journals in the fields of consumer behavior and food science, including [*Appetite*](https://www.sciencedirect.com/journal/appetite), [*BMC Public Health*](https://link.springer.com/journal/12889?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=MLSR_12889_AWA1_CN_CNPL_HPAUT_OAX) and [*npj Science of Food*](https://www.nature.com/npjscifood/).
 - I maintain a research blog on [Xiaohongshu (RED)](https://www.xiaohongshu.com/user/profile/63e455e10000000026006e2c) sharing insights on latest publications from leading journals (e.g., JCR, JCP). With over 2,100 followers, this platform has served as a productive hub for networking, leading to long-term collaborations with scholars from different institutions that have resulted in a few publications and several ongoing projects.
 
 # 💻 Skills
