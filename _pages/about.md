@@ -36,7 +36,7 @@ redirect_from:
 
 <div class="profile-divider"></div>
 
-<section id="about-me" class="record-section">
+<section id="about-me" class="record-section" markdown="1">
 
 # About me
 I am currently an Associate Professor in the College of Economics and Management at [Hefei Normal University](https://www.hfnu.edu.cn/). I earned my Ph.D. from the Graduate School of Commerce at [Chuo University](https://www.chuo-u.ac.jp/), where I was supervised by Professor [Jaewoo Park](https://c-research.chuo-u.ac.jp/html/100003068_ja.html). My research lies at the intersection of consumer behavior, marketing, and food science, with a particular focus on how consumers make food-related decisions in complex and imperfect markets. Drawing on theories from Consumer Psychology, Social Psychology, and Behavioral Economics, I employ rigorous experimental designs and quantitative methods to uncover the psychological mechanisms underlying consumers’ food choices. My work aims to generate actionable insights for marketing strategy design and behaviorally informed interventions that promote more sustainable and healthy food consumption.
@@ -50,7 +50,7 @@ If you are interested in academic collaboration or research exchange, please fee
 
 </section>
 
-<section id="academic-background" class="record-section">
+<section id="academic-background" class="record-section" markdown="1">
 
 # Academic background
 - Associate Professor, College of Economics and Management, Hefei Normal University, Hefei, Anhui, China.<span style="float:right;">2026.05 - Present</span><br style="clear:both;" />
@@ -61,7 +61,7 @@ If you are interested in academic collaboration or research exchange, please fee
 
 </section>
 
-<section id="news" class="record-section">
+<section id="news" class="record-section" markdown="1">
 
 # Recent news
 - [&nbsp;🎉🎉 Chuo University Holds Doctoral Degree Award Ceremony.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2026/03/84937/)<span style="float:right;">2026.03</span><br style="clear:both;" /> 
@@ -72,7 +72,7 @@ If you are interested in academic collaboration or research exchange, please fee
 
 </section>
 
-<section id="publications" class="record-section">
+<section id="publications" class="record-section" markdown="1">
 
 # Selected publications
 <!--div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food Quality and Preference 2023</div>
@@ -94,7 +94,7 @@ If you are interested in academic collaboration or research exchange, please fee
 
 </section>
 
-<section id="conferences" class="record-section">
+<section id="conferences" class="record-section" markdown="1">
 
 # Conferences
 - Society for Consumer Psychology - 2025 Annual Conference: Amplifying our Impact to Enhance Consumers’ Lives (27 February - 2 March 2025) — Keep away from it! Examining the contagion effect of insect-based food in the retail context. **Wang, Z.**, & Park, J.
@@ -109,7 +109,7 @@ If you are interested in academic collaboration or research exchange, please fee
 
 </section>
 
-<section id="research-projects" class="record-section">
+<section id="research-projects" class="record-section" markdown="1">
 
 # Research projects
 - **Japan Science and Technology Agency (JST), SPRING Program (JPMJSP2170)** <span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
@@ -117,7 +117,7 @@ Marketing strategies to enhance consumer acceptance of insect-based foods<span s
 
 </section>
 
-<section id="honors-and-awards" class="record-section">
+<section id="honors-and-awards" class="record-section" markdown="1">
 
 # Honors & awards
 - Excellence Award, JACS Paper Proposal Award, Japan Association for Consumer Studies (JACS).<span style="float:right;">2024.12</span><br style="clear:both;" /> 
@@ -128,7 +128,7 @@ Marketing strategies to enhance consumer acceptance of insect-based foods<span s
 
 </section>
 
-<section id="academic-service" class="record-section">
+<section id="academic-service" class="record-section" markdown="1">
 
 # Academic service
 - I serve as an ad hoc reviewer for leading international journals in the fields of consumer behavior and food science, including [*Appetite*](https://www.sciencedirect.com/journal/appetite), [*BMC Public Health*](https://link.springer.com/journal/12889?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=MLSR_12889_AWA1_CN_CNPL_HPAUT_OAX) and [*npj Science of Food*](https://www.nature.com/npjscifood/).
@@ -136,7 +136,7 @@ Marketing strategies to enhance consumer acceptance of insect-based foods<span s
 
 </section>
 
-<section id="skills" class="record-section">
+<section id="skills" class="record-section" markdown="1">
 
 # Methods & languages
 - **Professional Skills:** Solid theoretical foundation in consumer behavior and marketing research. Experienced in questionnaire design, experimental design, and data collection related to consumer studies. Capable of independently conducting quantitative research and writing academic papers in English, with several publications in international journals.
