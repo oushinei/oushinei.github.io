@@ -1,28 +1,28 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#-about-me"
+  - title: "Research"
+    url: "/#research"
 
   - title: "Academic Background"
-    url: "/#-academic-background"
+    url: "/#academic-background"
     
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Conferences"
-    url: "/#-conferences"
+    url: "/#conferences"
        
   - title: "Research Projects"
-    url: "/#-research-projects"
+    url: "/#research-projects"
   
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
     
   - title: "Academic Service"
-    url: "/#-academic-service"
+    url: "/#academic-service"
     
   - title: "Skills"
-    url: "/#-skills"
+    url: "/#skills"
