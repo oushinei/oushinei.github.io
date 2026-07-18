@@ -3,26 +3,8 @@ main:
   - title: "Research"
     url: "/#research"
 
-  - title: "Academic Background"
-    url: "/#academic-background"
-    
-  - title: "News"
-    url: "/#news"
-
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Conferences"
-    url: "/#conferences"
-       
-  - title: "Research Projects"
-    url: "/#research-projects"
-  
-  - title: "Honors and Awards"
-    url: "/#honors-and-awards"
-    
-  - title: "Academic Service"
-    url: "/#academic-service"
-    
-  - title: "Skills"
-    url: "/#skills"
+  - title: "Contact"
+    url: "mailto:wangzining@hfnu.edu.cn"
