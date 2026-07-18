@@ -1,12 +1,44 @@
 ---
 permalink: /
 title: ""
-author_profile: true
+author_profile: false
+layout: default
 redirect_from: 
   - /about/
   - /about.html
 ---
-# 🌟 About Me
+<section class="home-hero">
+  <div class="home-hero__copy">
+    <p class="eyebrow">Consumer behavior · food · better choices</p>
+    <h1>Hello, I’m Zining Wang.</h1>
+    <p class="home-hero__lede">I study the small, human moments behind what we choose to eat—and how thoughtful marketing can make sustainable and healthy choices feel more possible.</p>
+    <p class="home-hero__meta">Associate Professor · College of Economics and Management<br>Hefei Normal University · Hefei, China</p>
+    <p class="home-hero__actions"><a class="home-button" href="#research">Explore my research</a><a class="home-link" href="mailto:wangzining@hfnu.edu.cn">Let’s talk <span aria-hidden="true">→</span></a></p>
+  </div>
+  <div class="home-hero__portrait"><img src="/images/picture.jpg" alt="Portrait of Zining Wang"></div>
+</section>
+
+<section class="research-intro" id="research">
+<p class="eyebrow">What I’m curious about</p>
+<h2>Food decisions are never just about food.</h2>
+<p>My work sits at the intersection of consumer psychology, marketing, and food science. I use experiments and quantitative methods to understand how people navigate unfamiliar, imperfect, and sometimes uncomfortable food choices.</p>
+<div class="focus-grid">
+  <div class="focus-card"><span>01</span><h3>Sustainable proteins</h3><p>How can alternative proteins earn a place at the table?</p></div>
+  <div class="focus-card"><span>02</span><h3>Healthy eating</h3><p>How do cues, contexts, and communication shape everyday choices?</p></div>
+  <div class="focus-card"><span>03</span><h3>Food imperfection</h3><p>What helps people see value where markets often see waste?</p></div>
+</div>
+</section>
+
+<section class="now-section">
+  <p class="eyebrow">Now</p>
+  <p>I am building research that connects rigorous behavioral science with practical questions in food marketing and consumer welfare. I’m always happy to exchange ideas with fellow researchers, students, and collaborators.</p>
+</section>
+
+<div class="profile-divider"></div>
+
+<section id="about-me" class="record-section">
+
+# About me
 I am currently an Associate Professor in the College of Economics and Management at [Hefei Normal University](https://www.hfnu.edu.cn/). I earned my Ph.D. from the Graduate School of Commerce at [Chuo University](https://www.chuo-u.ac.jp/), where I was supervised by Professor [Jaewoo Park](https://c-research.chuo-u.ac.jp/html/100003068_ja.html). My research lies at the intersection of consumer behavior, marketing, and food science, with a particular focus on how consumers make food-related decisions in complex and imperfect markets. Drawing on theories from Consumer Psychology, Social Psychology, and Behavioral Economics, I employ rigorous experimental designs and quantitative methods to uncover the psychological mechanisms underlying consumers’ food choices. My work aims to generate actionable insights for marketing strategy design and behaviorally informed interventions that promote more sustainable and healthy food consumption.
 
 **Key Research Foci:**
@@ -16,21 +48,33 @@ I am currently an Associate Professor in the College of Economics and Management
 
 If you are interested in academic collaboration or research exchange, please feel free to contact me at [wangzining@hfnu.edu.cn](wangzining@hfnu.edu.cn).
 
-# 📖 Academic Background
+</section>
+
+<section id="academic-background" class="record-section">
+
+# Academic background
 - Associate Professor, College of Economics and Management, Hefei Normal University, Hefei, Anhui, China.<span style="float:right;">2026.05 - Present</span><br style="clear:both;" />
 - Doctor of Commerce, majoring in Commerce. Chuo University, Hachioji-shi, Tokyo, Japan.<span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
 - Master of Commerce, majoring in Commerce. Chuo University, Hachioji-shi, Tokyo, Japan.<span style="float:right;">2022.04 - 2024.03</span><br style="clear:both;" /> 
 - Bachelor of Engineering, majoring in Civil Engineering. Harbin Engineering University, Harbin, Heilongjiang, China.<span style="float:right;">2016.08 - 2020.06</span><br style="clear:both;" />
 
 
-# 🔥 News
+</section>
+
+<section id="news" class="record-section">
+
+# Recent news
 - [&nbsp;🎉🎉 Chuo University Holds Doctoral Degree Award Ceremony.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2026/03/84937/)<span style="float:right;">2026.03</span><br style="clear:both;" /> 
 - [&nbsp;🎉🎉 Zining Wang (Doctoral Program, Graduate School of Commerce) has received the JACS Paper Proposal Award.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/12/78027/)<span style="float:right;">2024.12</span><br style="clear:both;" /> 
 - [&nbsp;🎉🎉 A mid-term report meeting was held for SPRING scholarship research students.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/11/76855/)<span style="float:right;">2024.11</span><br style="clear:both;" /> 
 - [&nbsp;🎉🎉 The Master's Degree Conferral Ceremony for the Graduate Schools of Law, Economics, Commerce, Literature, and Policy Studies was held.](https://www.chuo-u.ac.jp/academics/graduateschool/news/2024/03/70285/)<span style="float:right;">2024.03</span><br style="clear:both;" /> 
 - [&nbsp;🎉🎉 Zining Wang (Master Program, Graduate School of Commerce) had his paper published in the journal "Food Quality and Preference."](https://www.chuo-u.ac.jp/academics/graduateschool/news/2023/06/66313/)<span style="float:right;">2023.06</span><br style="clear:both;" /> 
 
-# 📗 Publications 
+</section>
+
+<section id="publications" class="record-section">
+
+# Selected publications
 <!--div class='paper-box'><div class='paper-box-image'><div><div class="badge">Food Quality and Preference 2023</div>
 <img src='images/Food Quality and Preference.jpg' alt="sym" width="10%"><!--/div></div>
 <div class='paper-box-text' markdown="1"-->
@@ -48,7 +92,11 @@ If you are interested in academic collaboration or research exchange, please fee
 - [**Wang, Z.**, & Park, J. (2024). Does personality make a difference? Exploring the connections between the big five personality traits and entomophagy among Japanese consumers. *Food Quality and Preference*, 119, 105225.](https://doi.org/10.1016/j.foodqual.2024.105225)
 - [**Wang, Z.**, & Park, J. (2023). “Human-like” is powerful: The effect of anthropomorphism on psychological closeness and purchase intention in insect food marketing. *Food Quality and Preference*, 109, 104901.](https://doi.org/10.1016/j.foodqual.2023.104901)
 
-# 📝 Conferences 
+</section>
+
+<section id="conferences" class="record-section">
+
+# Conferences
 - Society for Consumer Psychology - 2025 Annual Conference: Amplifying our Impact to Enhance Consumers’ Lives (27 February - 2 March 2025) — Keep away from it! Examining the contagion effect of insect-based food in the retail context. **Wang, Z.**, & Park, J.
 - 69th Japan Association for Consumer Studies: The Future of Food and Consumer Behavior (7-8 December 2024) — Addressing marketing challenges in the development, introduction, and promotion of insect-based foods. **Wang, Z.**
 - EuroSense 2024: A Sense of Global Culture (8-11 September 2024) — Do consumers genuinely perceive insect-based foods as healthier and more sustainable: The role of information provision. **Wang, Z.**, & Park, J.
@@ -59,23 +107,40 @@ If you are interested in academic collaboration or research exchange, please fee
 - 15th Pangborn Sensory Science Symposium: Meeting new challenges in a changing world (20-24 August 2023) — The effect of human face presence on consumers’ responses to the advertised insect food.
 **Wang, Z.**, & Park, J.
 
-# 📚 Research Projects
+</section>
+
+<section id="research-projects" class="record-section">
+
+# Research projects
 - **Japan Science and Technology Agency (JST), SPRING Program (JPMJSP2170)** <span style="float:right;">2024.04 - 2026.03</span><br style="clear:both;" /> 
 Marketing strategies to enhance consumer acceptance of insect-based foods<span style="float:right;">Research Fellow</span><br style="clear:both;" /> 
 
-# 🏅 Honors and Awards
+</section>
+
+<section id="honors-and-awards" class="record-section">
+
+# Honors & awards
 - Excellence Award, JACS Paper Proposal Award, Japan Association for Consumer Studies (JACS).<span style="float:right;">2024.12</span><br style="clear:both;" /> 
 - D-CPRA: Chuo Promotion for Research Activities in Doctoral Courses, SPRING Program, Japan Science and Technology Agency (JST).<span style="float:right;">2024.07</span><br style="clear:both;" />
 - Academic Support Scholarship 2024, Chuo University.<span style="float:right;">2024.07</span><br style="clear:both;" />
 - Outstanding graduate of the Graduate School of Commerce, Chuo University.<span style="float:right;">2024.03</span><br style="clear:both;" />
 - Benefit Scholarship for Undergraduate and Graduate Students 2023, Chuo University.<span style="float:right;">2023.11</span><br style="clear:both;" />
 
-# 💬 Academic Service
+</section>
+
+<section id="academic-service" class="record-section">
+
+# Academic service
 - I serve as an ad hoc reviewer for leading international journals in the fields of consumer behavior and food science, including [*Appetite*](https://www.sciencedirect.com/journal/appetite), [*BMC Public Health*](https://link.springer.com/journal/12889?utm_medium=affiliate&utm_source=baidu&utm_content=banner&utm_term=null&utm_campaign=MLSR_12889_AWA1_CN_CNPL_HPAUT_OAX) and [*npj Science of Food*](https://www.nature.com/npjscifood/).
 - I maintain a research blog on [Xiaohongshu (RED)](https://www.xiaohongshu.com/user/profile/63e455e10000000026006e2c) sharing insights on latest publications from leading journals (e.g., JCR, JCP). With over 2,100 followers, this platform has served as a productive hub for networking, leading to long-term collaborations with scholars from different institutions that have resulted in a few publications and several ongoing projects.
 
-# 💻 Skills
+</section>
+
+<section id="skills" class="record-section">
+
+# Methods & languages
 - **Professional Skills:** Solid theoretical foundation in consumer behavior and marketing research. Experienced in questionnaire design, experimental design, and data collection related to consumer studies. Capable of independently conducting quantitative research and writing academic papers in English, with several publications in international journals.
 - **Data Analysis:** Proficient in using SPSS for data processing and hypothesis testing. Familiar with AMOS and SmartPLS, with the ability to build and analyze Structural Equation Models (SEM). Experienced in using XLSTAT for common marketing research analyses, including factor analysis and cluster analysis.
 - **Language Proficiency:** English: TOEIC 935; strong academic writing and reading skills. Japanese: JLPT N1; capable of conducting academic research and daily communication in Japanese.
 
+</section>
